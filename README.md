@@ -13,8 +13,19 @@ Din uppgift är att förvandla texten i radata.txt till en semantiskt korrekt we
 
 • Koden får inte innehålla någon "Div-soppa" – använd `<div>` enbart om du redan nu vill förbereda för specifik CSS-layout.
 
+# När du är klar:
+
+Byt kod med en klasskamrat och leta efter:
+
+• Minst en bra semantisk lösning
+  
+• En sak du hade löst annorlunda
+  
+  Efter kamratbytet och eventuella ändringar lämnar du in uppgiften genom att länka till din GitHub-repo
+
+
 # Inlämning:
 
-Lämna in uppgiften genom att länka till er egna repository.
+Efter kamratbytet och eventuella ändringar lämnar du in uppgiften genom att länka till din GitHub-repo
 
 **Uppladdning av html-fil accepteras inte!**
