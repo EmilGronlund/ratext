@@ -1,0 +1,14 @@
+body {
+    background: rgb(182, 221, 250);
+    font-family: monospace;
+    margin: 0;
+}
+
+main, header, footer {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+section {
+    padding: 15px;
+}
