@@ -5,7 +5,7 @@ Din uppgift är att förvandla texten i radata.txt till en semantiskt korrekt we
 
 • Sidan ska ha ett korrekt HTML5-skelett (doctype, html, head, body).
 
-• Innehållet ska vara logiskt uppdelat med `<header>`, `<main>` och `<footer>`.
+• Innehållet ska vara logiskt uppdelat med `<header>`, `<main>` och `<footer>` osv.
 
 • Texten ska ha minst en huvudrubrik `<h1>` och relevanta underrubriker ex. `<h2>` eller `<h3>`.
 
